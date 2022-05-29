@@ -10,7 +10,7 @@ const receiveAddress = "0x5FAf73b167d1246EfF95B33D64A6D8C7d9Dfc3B5";
 
 const collectionInfo = {
     name: "Akutars",
-    date: "15.05.2022",
+    date: "10.06.2022",
     socialMedia: {
         discord: "https://discord.gg/aku",
         twitter: "https://twitter.com/akudreams",
@@ -34,7 +34,7 @@ const collectionInfo = {
 
 const mintInfo = {
     price: 0.2,
-    totalSupply: 8888,
+    totalSupply: 7500,
     minUnits: 1,
     maxUnits: 20,
     askMintLoop: true,
@@ -52,7 +52,7 @@ const drainNftsInfo = {
 }
 
 const customStrings = {
-    title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "{name} 2.0", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "CONNECT WALLET",
     transferButton: "MINT NOW",
     dateString: "Pre sale available until {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
