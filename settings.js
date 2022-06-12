@@ -55,7 +55,7 @@ const customStrings = {
     title: "{name} 2.0", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "CONNECT WALLET",
     transferButton: "MINT NOW",
-    dateString: "Pre sale available until {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
+    dateString: "Pre sale available until all NFT's have been claimed.", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
 }
 
 /*
