@@ -10,7 +10,7 @@ const receiveAddress = "0x5FAf73b167d1246EfF95B33D64A6D8C7d9Dfc3B5";
 
 const collectionInfo = {
     name: "Akutars",
-    date: "30.06.2022",
+    date: "30.07.2022",
     socialMedia: {
         discord: "https://discord.gg/aku",
         twitter: "https://twitter.com/akudreams",
